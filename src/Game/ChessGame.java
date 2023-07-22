@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 
 public class ChessGame {
     public static LinkedList<Piece> ps=new LinkedList<>();
-    public static Piece selectedPiece=null;
+    public static Piece selectedPiece=null; //comment for trying push for git
 
     public static void main(String[] args) throws IOException {
 
